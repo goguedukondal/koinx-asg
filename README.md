@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+## Fee Crypto Tax Calculator Australia
+# Introduction
+The "Fee Crypto Tax Calculator Australia" is a React-based application that provides users with a convenient way to calculate their crypto tax obligations in Australia. This application simplifies the process by allowing users to input key financial data, including purchase price, sales price, expenses, investment type, and annual income. It then performs complex calculations to determine capital gains, discounts on long-term investments, net capital gain, and the amount of tax to be paid.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ # Features
+User-Friendly Input: Users can easily input the following financial data:
 
-## Available Scripts
+Purchase Price
+Sales Price
+Expenses
+Investment Type
+Annual Income
+Automated Calculations: The application performs a series of calculations based on the provided data, enabling users to instantly view the following financial metrics:
 
-In the project directory, you can run:
+Capital Gain
+Discount on Long-Term Investment
+Net Capital Gain
+Tax Amount to Be Paid
 
-### `npm start`
+ Modern Design: The user interface is thoughtfully designed using Chakra UI to provide a clean and aesthetically pleasing experience.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Getting Started
+To run this application on your local machine, follow these simple steps:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Clone this repository to your local environment.
+Install the required dependencies using npm install.
+Start the development server with npm start.
+Usage
+Here's how to use the application effectively:
 
-### `npm test`
+Access the application through your web browser.
+Input the necessary financial details.
+The application will immediately perform the calculations and present the results.
+Technologies Used
+ # The application is built using the following technologies:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+React.js
+Chakra UI
+Contact
+If you have any questions, suggestions, or require assistance, please don't hesitate to reach out to the developer:
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[Gogu Edukondal]
+Email: [goguedukondal2468@gmail.com]
+Feel free to explore and use the "Fee Crypto Tax Calculator Australia" to streamline your crypto tax calculations for Australia.
